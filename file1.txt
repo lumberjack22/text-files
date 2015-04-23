@@ -3,5 +3,6 @@
 //i'm adding a line to the remote repo master
 //i'm adding a 4th line
 //adding a 5th line
+//adding a 6th line from local
 //adding a 7th line from remote
 //adding an 8th line from remote
